@@ -1,6 +1,6 @@
-## Oiii eu sou o Arthur Rodrigues, desenvolvedor Front-End!
+## Oiii eu sou o Arthur Rodrigues, desenvolvedor Front-End/back!
 
-Meu nome é Arthur Manoel de Assis Rodrigues, tenho 24 anos e sou graduando em Análise e Desenvolvimento de Sistemas. Estou em transição de carreira para a área de tecnologia, com foco inicial em desenvolvimento web front-end. Sou apaixonado por aprender, estou constantemente me aprimorando.
+Meu nome é Arthur Manoel de Assis Rodrigues, tenho 24 anos e sou graduando em Análise e Desenvolvimento de Sistemas. Estou em transição de carreira para a área de tecnologia, com foco inicial em desenvolvimento front-end e back. Sou apaixonado por aprender, estou constantemente me aprimorando.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
