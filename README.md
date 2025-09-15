@@ -1,13 +1,63 @@
 # 👨🏾‍💻 Arthur Rodrigues
 
 **`Desenvolvedor Back-end`**
+Python | Flask | PostgreSQL | MySQL
 
-Meu nome é Arthur Manoel de Assis Rodrigues, tenho 24 anos e sou graduando em Análise e Desenvolvimento de Sistemas. Estou em transição de carreira para a área de tecnologia, com foco inicial em desenvolvimento Back-End. Sou apaixonado por aprender, estou constantemente me aprimorando.
+Atuo como desenvolvedor backend com foco em Python e Flask, trabalhando na criação de APIs e integração com bancos de dados relacionais como PostgreSQL e MySQL. Tenho experiência prática com versionamento em Git/GitHub e uso de ferramentas modernas para estruturar aplicações seguras e escaláveis.
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="FastAPI" 
+    title="FastAPI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
+/>
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"          
+/>
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"       
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
@@ -23,30 +73,6 @@ Meu nome é Arthur Manoel de Assis Rodrigues, tenho 24 anos e sou graduando em A
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Flask" 
-    title="Flask"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
 />
 
 <br/>
