@@ -1,9 +1,9 @@
 # 👨🏾‍💻 Arthur Rodrigues
 
 **`Desenvolvedor Back-end`**
-Python | Flask | PostgreSQL | MySQL
+Python | FastAPI | PostgreSQL | MySQL
 
-Atuo como desenvolvedor backend com foco em Python e Flask, trabalhando na criação de APIs e integração com bancos de dados relacionais como PostgreSQL e MySQL. Tenho experiência prática com versionamento em Git/GitHub e uso de ferramentas modernas para estruturar aplicações seguras e escaláveis.
+Desenvolvedor Back-end em início de carreira, focado em construir aplicações seguras, escaláveis e de alta performance. Tenho experiência prática no desenvolvimento de APIs RESTful com Python e FastAPI, banco de dados PostgreSQL e containerização com Docker. Possuo conhecimentos em segurança e autenticação JWT, além de integração com serviços externos. Busco sempre aplicar boas práticas de código, arquitetura limpa e soluções que gerem impacto real, enquanto evoluo constantemente minhas habilidades técnicas.
 
 ---
 
