@@ -1,99 +1,48 @@
-# 👨🏾‍💻 Arthur Rodrigues
+<h1 align="center">Olá 👋 Seja bem-vindo!</h1>
 
-**`Desenvolvedor Back-end`**
-Python | FastAPI | PostgreSQL | MySQL
+<h3 align="center">Arthur Rodrigues — Desenvolvedor Back-end</h3>
 
-Desenvolvedor Back-end em início de carreira, focado em construir aplicações seguras, escaláveis e de alta performance. Tenho experiência prática no desenvolvimento de APIs RESTful com Python e FastAPI, banco de dados PostgreSQL e containerização com Docker. Possuo conhecimentos em segurança e autenticação JWT, além de integração com serviços externos. Busco sempre aplicar boas práticas de código, arquitetura limpa e soluções que gerem impacto real, enquanto evoluo constantemente minhas habilidades técnicas.
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="FastAPI" 
-    title="FastAPI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-/>
-<img 
-    align="left" 
-    alt="SQL"
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"          
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"       
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ArthurRodrigues4433&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRodrigues4433&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+Desenvolvedor Back-end focado em criar APIs seguras, escaláveis e de alta performance utilizando Python.<br>
+Apaixonado por tecnologia, arquitetura limpa e aprendizado contínuo através de projetos reais.
 </p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=html" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=css" height="60"/>
+</div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/arthur-rodrigues123/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"/>
+</a>
+
+<a href="https://discord.com/users/568613062433701888" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=5865F2&logoColor=white&style=for-the-badge"/>
+</a>
+
+
+</div>
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ArthurRodrigues4433&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRodrigues4433&theme=tokyonight&layout=compact&langs_count=8"/>
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=ArthurRodrigues4433&theme=tokyonight" height="150"/>
+</div>
