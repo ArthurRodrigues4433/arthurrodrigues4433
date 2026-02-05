@@ -16,13 +16,15 @@ Apaixonado por tecnologia, arquitetura limpa e aprendizado contínuo através de
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="60"/>
-  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="60"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=html" height="60"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=css" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=react" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=django" height="60"/>
 </div>
 
 <div align="center">
