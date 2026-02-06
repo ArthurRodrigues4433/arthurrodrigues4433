@@ -1,10 +1,11 @@
-<h1 align="center">Olá 👋 Seja bem-vindo!</h1>
+<h1 align="center">Olá, Seja bem-vindo!</h1>
 
 <h3 align="center">Arthur Rodrigues — Desenvolvedor Back-end</h3>
 
 <p align="center">
-Desenvolvedor Back-end focado em criar APIs seguras, escaláveis e de alta performance utilizando Python.<br>
-Apaixonado por tecnologia, arquitetura limpa e aprendizado contínuo através de projetos reais.
+Sou desenvolvedor Back-end Python, com foco em APIs REST usando Flask e FastAPI.<br>
+Venho praticando CRUD, autenticação, integração com frontend e bancos de dados em projetos reais.<br>
+Estou em constante aprendizado, buscando minha primeira oportunidade como desenvolvedor Júnior.
 </p>
 
 <div align="center">
@@ -41,10 +42,46 @@ Apaixonado por tecnologia, arquitetura limpa e aprendizado contínuo através de
 </div>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ArthurRodrigues4433&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRodrigues4433&theme=tokyonight&layout=compact&langs_count=8"/>
+  
+<h2 align="center">💻 Projetos</h2>
+
+<h3> Todo List – React + Python</h3>
+<a href="https://github.com/ArthurRodrigues4433/Todo-list-em-react-e-python" target="_blank">
+https://github.com/ArthurRodrigues4433/Todo-list-em-react-e-python
+</a><br>
+Aplicação web de lista de tarefas (To-Do) com frontend em React e backend em Python.
+<br><br>
+
+<h3> Ochattinho BOT</h3>
+<a href="https://github.com/ArthurRodrigues4433/Ochattinho-BOT" target="_blank">
+https://github.com/ArthurRodrigues4433/Ochattinho-BOT
+</a><br>
+Bot para Discord com comandos de interação e funcionalidades customizadas.
+<br><br>
+
+<h3> Bank System – DIO Challenge</h3>
+<a href="https://github.com/ArthurRodrigues4433/bank-sys-dio-challenge" target="_blank">
+https://github.com/ArthurRodrigues4433/bank-sys-dio-challenge
+</a><br>
+Sistema bancário simples em Python (depósito, saque e extrato).
+<br><br>
+
+<h3> Aluvi Agendamentos</h3>
+<a href="https://github.com/ArthurRodrigues4433/aluviagendamentos" target="_blank">
+https://github.com/ArthurRodrigues4433/aluviagendamentos
+</a><br>
+Sistema de agendamento de serviços (frontend + backend) para organizar horários.
+
 </div>
 
+
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=ArthurRodrigues4433&theme=tokyonight" height="150"/>
+  <br>
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurRodrigues4433&theme=monokai) 
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArthurRodrigues4433&theme=monokai) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArthurRodrigues4433&theme=monokai)
+  
+  <br>
 </div>
