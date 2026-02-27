@@ -3,9 +3,9 @@
 <h3 align="center">Arthur Rodrigues — Desenvolvedor Back-end</h3>
 
 <p align="center">
-Sou desenvolvedor Back-end Python, com foco em APIs REST usando Flask e FastAPI.<br>
-Venho praticando CRUD, autenticação, integração com frontend e bancos de dados em projetos reais.<br>
-Estou em constante aprendizado, buscando minha primeira oportunidade como desenvolvedor Júnior.
+Desenvolvedor Back-end com foco em Python e APIs REST.<br>
+Atualmente em constante aprimoramento com foco em Django, possuo também experiência com FastAPI, bancos de dados relacionais e integração entre frontend e backend.
+Busco oportunidade como Desenvolvedor Back-end Júnior ou Estagiário, onde possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir para o desenvolvimento de soluções eficientes e escaláveis.
 </p>
 
 <div align="center">
@@ -43,34 +43,30 @@ Estou em constante aprendizado, buscando minha primeira oportunidade como desenv
 
 <div align="center">
   
-<h2 align="center">💻 Projetos</h2>
+<h2 align="center">💻 Projetos em Destaque</h2>
 
-<h3> Todo List – React + Python</h3>
-<a href="https://github.com/ArthurRodrigues4433/Todo-list-em-react-e-python" target="_blank">
-https://github.com/ArthurRodrigues4433/Todo-list-em-react-e-python
-</a><br>
-Aplicação web de lista de tarefas (To-Do) com frontend em React e backend em Python.
+<h3>🔹 Todo List – React + Python</h3>
+Aplicação web com API em Python para gerenciamento de tarefas.<br>
+• Implementação de CRUD completo<br>
+• Integração entre frontend (React) e backend<br>
+• Organização de rotas e manipulação de dados<br>
+🔗 https://github.com/ArthurRodrigues4433/Todo-list-em-react-e-python
 <br><br>
 
-<h3> Ochattinho BOT</h3>
-<a href="https://github.com/ArthurRodrigues4433/Ochattinho-BOT" target="_blank">
-https://github.com/ArthurRodrigues4433/Ochattinho-BOT
-</a><br>
-Bot para Discord com comandos de interação e funcionalidades customizadas.
+<h3>🔹 Ochattinho BOT</h3>
+Bot desenvolvido para Discord com comandos personalizados e lógica de automação.<br>
+• Manipulação de eventos e comandos<br>
+• Estruturação de funções e organização de código<br>
+• Integração com API do Discord<br>
+🔗 https://github.com/ArthurRodrigues4433/Ochattinho-BOT
 <br><br>
 
-<h3> Bank System – DIO Challenge</h3>
-<a href="https://github.com/ArthurRodrigues4433/bank-sys-dio-challenge" target="_blank">
-https://github.com/ArthurRodrigues4433/bank-sys-dio-challenge
-</a><br>
-Sistema bancário simples em Python (depósito, saque e extrato).
-<br><br>
-
-<h3> Aluvi Agendamentos</h3>
-<a href="https://github.com/ArthurRodrigues4433/aluviagendamentos" target="_blank">
-https://github.com/ArthurRodrigues4433/aluviagendamentos
-</a><br>
-Sistema de agendamento de serviços (frontend + backend) para organizar horários.
+<h3>🔹 Bank System – DIO Challenge</h3>
+Sistema bancário em Python desenvolvido para prática de lógica e organização de código.<br>
+• Operações de depósito, saque e extrato<br>
+• Controle de fluxo e validação de regras<br>
+• Estruturação de funções e boas práticas básicas<br>
+🔗 https://github.com/ArthurRodrigues4433/bank-sys-dio-challenge
 
 </div>
 
