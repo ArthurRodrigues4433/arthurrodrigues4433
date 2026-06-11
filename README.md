@@ -15,7 +15,7 @@ Busco oportunidade como Desenvolvedor Back-end Júnior ou Estagiário, onde poss
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=django" height="60"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=flask" height="60"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=postgres" height="60"/>
   <img width="12"/>
