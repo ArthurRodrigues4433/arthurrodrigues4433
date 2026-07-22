@@ -69,15 +69,3 @@ Sistema bancário em Python desenvolvido para prática de lógica e organizaçã
 🔗 https://github.com/ArthurRodrigues4433/bank-sys-dio-challenge
 
 </div>
-
-
-<div align="center">
-  <br>
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurRodrigues4433&theme=monokai) 
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArthurRodrigues4433&theme=monokai) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArthurRodrigues4433&theme=monokai)
-  
-  <br>
-</div>
