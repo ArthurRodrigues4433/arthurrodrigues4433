@@ -1,71 +1,133 @@
-<h1 align="center">Olá, Seja bem-vindo!</h1>
+<h1 align="center">Arthur Rodrigues</h1>
 
-<h3 align="center">Arthur Rodrigues — Desenvolvedor Back-end</h3>
+<h3 align="center">Desenvolvedor Back-end Java em formação</h3>
 
 <p align="center">
-Desenvolvedor Back-end com foco em Python e APIs REST.<br>
-Atualmente em constante aprimoramento com foco em Django, possuo também experiência com FastAPI, bancos de dados relacionais e integração entre frontend e backend.
-Busco oportunidade como Desenvolvedor Back-end Júnior ou Estagiário, onde possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir para o desenvolvimento de soluções eficientes e escaláveis.
+🎓 Análise e Desenvolvimento de Sistemas<br>
+☕ Java • Spring Boot • APIs REST • PostgreSQL<br>
+🚀 Buscando oportunidade de Estágio ou Desenvolvedor Back-end Júnior
 </p>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=java" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=django" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=html" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=css" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=react" height="60"/>
-</div>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/arthur-rodrigues123/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://discord.com/users/568613062433701888" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=5865F2&logoColor=white&style=for-the-badge"/>
+<a href="https://github.com/ArthurRodrigues4433" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 
 </div>
 
-<div align="center">
-  
-<h2 align="center">💻 Projetos em Destaque</h2>
+---
 
-<h3>🔹 Todo List – React + Python</h3>
-Aplicação web com API em Python para gerenciamento de tarefas.<br>
-• Implementação de CRUD completo<br>
-• Integração entre frontend (React) e backend<br>
-• Organização de rotas e manipulação de dados<br>
-🔗 https://github.com/ArthurRodrigues4433/Todo-list-em-react-e-python
-<br><br>
+## 👨‍💻 Perfil
 
-<h3>🔹 Ochattinho BOT</h3>
-Bot desenvolvido para Discord com comandos personalizados e lógica de automação.<br>
-• Manipulação de eventos e comandos<br>
-• Estruturação de funções e organização de código<br>
-• Integração com API do Discord<br>
-🔗 https://github.com/ArthurRodrigues4433/Ochattinho-BOT
-<br><br>
+Estudante de **Análise e Desenvolvimento de Sistemas**, com foco atual em **desenvolvimento Back-end com Java**.
 
-<h3>🔹 Bank System – DIO Challenge</h3>
-Sistema bancário em Python desenvolvido para prática de lógica e organização de código.<br>
-• Operações de depósito, saque e extrato<br>
-• Controle de fluxo e validação de regras<br>
-• Estruturação de funções e boas práticas básicas<br>
-🔗 https://github.com/ArthurRodrigues4433/bank-sys-dio-challenge
+Tenho experiência prática de estudos com **Python, FastAPI, Django, APIs REST e bancos de dados relacionais** e atualmente estou aprofundando meus conhecimentos em **Java, Programação Orientada a Objetos e Spring Boot**.
 
+Meu foco é desenvolver projetos práticos e construir uma base sólida para atuar profissionalmente como desenvolvedor Back-end.
+
+---
+
+<div align="center"> 
+  <img src="https://skillicons.dev/icons?i=python" height="60"/> 
+  <img width="12"/> <img src="https://skillicons.dev/icons?i=java" height="60"/>  
+  <img width="12"/> <img src="https://skillicons.dev/icons?i=fastapi" height="60"/> 
+  <img width="12"/> <img src="https://skillicons.dev/icons?i=postgres" height="60"/> 
+  <img width="12"/> <img src="https://skillicons.dev/icons?i=javascript" height="60"/> 
+  <img width="12"/> <img src="https://skillicons.dev/icons?i=html" height="60"/> 
+  <img width="12"/> <img src="https://skillicons.dev/icons?i=css" height="60"/> 
+  <img width="12"/> <img src="https://skillicons.dev/icons?i=react" height="60"/> </div>
+
+---
+
+## 🛠️ Tecnologias
+
+### Principal
+
+* ☕ Java
+* 🌱 Spring Boot
+* 🗄️ PostgreSQL
+* 🔗 APIs REST
+* 🔧 Git / GitHub
+
+### Conhecimentos anteriores
+
+* 🐍 Python
+* ⚡ FastAPI
+* ⚛️ React
+* 🟨 JavaScript
+
+---
+
+## 🚀 Projeto em destaque
+
+### 🛒 Cesttô
+
+Aplicação para **planejamento e conferência de compras de supermercado**, atualmente sendo desenvolvida em **Java + Spring Boot**.
+
+O projeto está sendo utilizado para colocar em prática conceitos de desenvolvimento Back-end, incluindo:
+
+* Desenvolvimento de API REST
+* Modelagem de dados
+* Persistência de dados
+* Regras de negócio
+* Organização de uma aplicação Spring Boot
+
+**Stack:** `Java` `Spring Boot` `PostgreSQL`
+
+🔗 **[Acessar repositório](https://github.com/ArthurRodrigues4433/Cestto)**
+
+---
+
+## 📂 Outros projetos
+
+### Todo List — React + Python
+
+Aplicação de gerenciamento de tarefas desenvolvida para praticar integração entre frontend e backend.
+
+`Python` `API REST` `React` `CRUD`
+
+🔗 **[Repositório](https://github.com/ArthurRodrigues4433/Todo-list-em-react-e-python)**
+
+### Ochattinho BOT
+
+Bot para Discord desenvolvido durante meus estudos de programação.
+
+`Python` `Discord API`
+
+🔗 **[Repositório](https://github.com/ArthurRodrigues4433/Ochattinho-BOT)**
+
+### Bank System — DIO Challenge
+
+Sistema bancário desenvolvido em Python para prática de lógica e regras de negócio.
+
+`Python`
+
+🔗 **[Repositório](https://github.com/ArthurRodrigues4433/bank-sys-dio-challenge)**
+
+---
+
+<div>
+  <a href="https://github.com/ArthurRodrigues4433">
+    <img
+      loading="lazy"
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRodrigues4433&layout=compact&langs_count=7&theme=dracula"
+    />
+    <img
+      loading="lazy"
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=ArthurRodrigues4433&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    />
+  </a>
 </div>
+
+---
+
+![Snake animation](https://github.com/ArthurRodrigues4433/ArthurRodrigues4433/blob/output/github-contribution-grid-snake.svg)
+
+
