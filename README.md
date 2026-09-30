@@ -33,9 +33,6 @@ Tenho experiência prática de estudos com **Python, FastAPI, Django, APIs REST 
 Meu foco é desenvolver projetos práticos e construir uma base sólida para atuar profissionalmente como desenvolvedor Back-end.
 
 ---
-
-## Tecnologias
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,python,fastapi,react,javascript,html,css,git,github" />
 </div>
