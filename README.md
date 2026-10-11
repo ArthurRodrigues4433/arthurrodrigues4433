@@ -8,12 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arthur-rodrigues123/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/ArthurRodrigues4433">
     <img height="180" src="https://github-stats-alpha.vercel.app/api?username=ArthurRodrigues4433&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
   </a>
@@ -21,8 +15,6 @@
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRodrigues4433&layout=compact&langs_count=7&theme=dracula">
   </a>
 </p>
-
----
 
 ## Perfil
 
@@ -42,54 +34,6 @@ Meu foco é desenvolver projetos práticos e construir uma base sólida para atu
   <br>
   <strong>Conhecimentos anteriores:</strong> Python • FastAPI • React • JavaScript
 </p>
-
----
-
-## Projeto em destaque
-
-### Cesttô
-
-Aplicação para **planejamento e conferência de compras de supermercado**, atualmente sendo desenvolvida em **Java + Spring Boot**.
-
-O projeto está sendo utilizado para colocar em prática conceitos de desenvolvimento Back-end, incluindo:
-
-- Desenvolvimento de API REST
-- Modelagem de dados
-- Persistência de dados
-- Regras de negócio
-- Organização de uma aplicação Spring Boot
-
-**Stack:** `Java` `Spring Boot` `PostgreSQL`
-
-[Ver repositório](https://github.com/ArthurRodrigues4433/Cestto)
-
----
-
-## Outros projetos
-
-### Todo List — React + Python
-
-Aplicação de gerenciamento de tarefas desenvolvida para praticar integração entre frontend e backend.
-
-`Python` `API REST` `React` `CRUD`
-
-[Ver repositório](https://github.com/ArthurRodrigues4433/Todo-list-em-react-e-python)
-
-### Ochattinho BOT
-
-Bot para Discord desenvolvido durante meus estudos de programação.
-
-`Python` `Discord API`
-
-[Ver repositório](https://github.com/ArthurRodrigues4433/Ochattinho-BOT)
-
-### Bank System — DIO Challenge
-
-Sistema bancário desenvolvido em Python para prática de lógica e regras de negócio.
-
-`Python`
-
-[Ver repositório](https://github.com/ArthurRodrigues4433/bank-sys-dio-challenge)
 
 ---
 
